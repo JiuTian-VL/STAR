@@ -8,6 +8,9 @@
 <sup>&dagger;</sup>corresponding author
 
 **ICML 2025**
+
+</div>
+
 This work presents STAR, a framework that advances both skill learning and composition to complete complex behaviors.
 
 ## Performance
