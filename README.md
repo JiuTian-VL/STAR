@@ -7,13 +7,23 @@
 
 <sup>&dagger;</sup>corresponding author
 
-**ICML 2025**
+[![arXiv](https://img.shields.io/badge/arXiv-2501.16297-b31b1b.svg?logo=arxiv)](https://www.arxiv.org/abs/2506.03863)
 
 </div>
 
-This work presents STAR, a framework that advances both skill learning and composition to complete complex behaviors.
+## :fire: Updates
+- [03/2025] [Arxiv paper](https://www.arxiv.org/abs/2506.03863) released.
+- [02/2025] STAR has been accepted by ICML 2025 Spotlight!
 
-## Performance
+## :fire: Introduction
+This is the github repository of *STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization*. In this work, we presents STAR, a framework that advances both skill learning and composition to complete complex behaviors.
+
+The whole framework of STAR:
+<div align="center">
+<img src='assets/framework.png' width='100%'>
+</div>
+
+## :fire: Performance
 Here we present the performance comparison between our method and baseline models on the LIBERO benchmark suite.
 
 | Model | LIBERO-Object | LIBERO-Spatial | LIBERO-Goal | LIBERO-Long | LIBERO-90 | Avg. |
@@ -29,3 +39,18 @@ Here we present the performance comparison between our method and baseline model
 | VQ-BeT | 90.3 ±1.5 | 88.7 ±2.0 | 61.3 ±1.0 | 59.7 ±0.2 | 84.2 ±0.3 | 76.8 ±0.5 |
 | QueST | 90.0 ±1.1 | 84.5 ±0.2 | 76.7 ±0.9 | 69.1 ±1.0 | 87.4 ±0.4 | 81.5 ±0.6 |
 | **Ours** | **98.3 ±0.2** | **95.5 ±0.6** | **95.0 ±0.7** | **88.5 ±0.3** | **90.8 ±0.2** | **93.6 ±0.1** |
+
+## :fire: Details will be released. Stay tuned.
+
+## :fire: Citation
+
+If you find this work useful for your research, please kindly cite our paper:
+
+```
+@article{li2025star,
+  title={STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization},
+  author={Li, Hao and Lv, Qi and Shao, Rui and Deng, Xiang and Li, Yinchuan and Hao, Jianye and Nie, Liqiang},
+  journal={arXiv preprint arXiv:2506.03863},
+  year={2025}
+}
+```
