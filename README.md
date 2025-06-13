@@ -7,7 +7,7 @@
 
 <sup>&dagger;</sup>corresponding author
 
-[![arXiv](https://img.shields.io/badge/arXiv-2501.16297-b31b1b.svg?logo=arxiv)](https://www.arxiv.org/abs/2506.03863)
+[![arXiv](assets/arxiv.jpg)](https://www.arxiv.org/abs/2506.03863)
 
 </div>
 
@@ -20,7 +20,7 @@ This is the github repository of *STAR: Learning Diverse Robot Skill Abstraction
 
 The whole framework of STAR:
 <div align="center">
-<img src='assets/framework.png' width='100%'>
+<img src='assets/framework.jpg' width='100%'>
 </div>
 
 ## :fire: Performance
