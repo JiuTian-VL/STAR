@@ -7,7 +7,7 @@
 
 <sup>&dagger;</sup>corresponding author
 
-[![arXiv](assets/arxiv.jpg)](https://www.arxiv.org/abs/2506.03863)
+[![arXiv](assets/arxiv.svg)](https://www.arxiv.org/abs/2506.03863)
 
 </div>
 
