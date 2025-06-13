@@ -12,8 +12,8 @@
 </div>
 
 ## :fire: Updates
-- [03/2025] [Arxiv paper](https://www.arxiv.org/abs/2506.03863) released.
-- [02/2025] STAR has been accepted by ICML 2025 Spotlight!
+- [06/2025] [Arxiv paper](https://www.arxiv.org/abs/2506.03863) released.
+- [05/2025] STAR has been accepted by ICML 2025 Spotlight!
 
 ## :fire: Introduction
 This is the github repository of *STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization*. In this work, we presents STAR, a framework that advances both skill learning and composition to complete complex behaviors.
